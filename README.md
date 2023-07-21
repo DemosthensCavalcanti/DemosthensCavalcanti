@@ -4,7 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/demosthens)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DemosthensCF)
 
-![Demosthens's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemosthensCavalcanti&show_icons=true&theme=dark)
+![Demosthens GitHub stats](https://github-readme-stats.vercel.app/api?username=DemosthensCavalcanti&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemosthensCavalcanti&layout=compact)
 
 ## Tecnologias que eu uso no meu dia.
 
